@@ -24,3 +24,7 @@ Anisotropic PDF可以对输入的二维平面探测器不同角度的<img src="h
 2. Usher, Tedi-Marie, et al. "Electric-field-induced local and mesoscale structural changes in polycrystalline dielectrics and ferroelectrics." *Scientific reports* 5.1 (2015): 1-10.
 3. Suzuki, Y., J. Haimovich, and T. Egami. "Bond-orientational anisotropy in metallic glasses observed by x-ray diffraction." *Physical Review B* 35.5 (1987): 2162.
 4. Egami, T., et al. "Deformation induced bond orientational order in metallic glasses." *Journal of non-crystalline solids* 192 (1995): 591-594.
+
+# 引用
+如果Anisotropic PDF对您的研究有帮助，请引用这个网址：
+https://github.com/worlddatong/Anisotropic-PDF
