@@ -7,7 +7,7 @@ Egami等人[1]提出，样品在外部刺激下(电场/应变)，其各向同性
 
 因此，要分析在外部刺激下样品的局部微观结构，就需要从三维<img src="https://latex.codecogs.com/svg.image?\inline&space;\vec{r}" title="\inline \vec{r}" />空间来分析各向异性PDF曲线<img src="https://latex.codecogs.com/svg.image?\inline&space;G(\vec{r})" title="\inline G(\vec{r})" />。目前，Usher等人[2]与Egami等人[3,4]等人都报道了利用各向异性PDF来分析多晶陶瓷、金属玻璃等材料的局部微观结构。
 
-Anisotropic PDF软件可以对输入的二维平面探测器不同角度的总散射结构函数(total scattering structure function)<img src="https://latex.codecogs.com/svg.image?\inline&space;S(Q)" title="\inline S(Q)" />
+Anisotropic PDF软件可以对输入的二维平面探测器不同角度的总散射结构函数(total scattering structure function)<img src="https://latex.codecogs.com/svg.image?\inline&space;S(Q)" title="\inline S(Q)" />：
 
 1. 进行球谐分解，得到对应的球谐系数<img src="https://latex.codecogs.com/svg.image?\inline&space;S_l^m(Q)" title="\inline S_l^m(Q)" />。
 2. 通过球谐系数，重构散射矢量<img src="https://latex.codecogs.com/svg.image?\inline&space;\vec{Q}" title="\inline \vec{Q}" />平行于特定方向的<img src="https://latex.codecogs.com/svg.image?\inline&space;S(\vec{Q})" title="\inline S(\vec{Q})" />。
