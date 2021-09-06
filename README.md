@@ -30,7 +30,7 @@ Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
 2. 输入软件的各组S(Q)数据必须具有相同的<img src="https://latex.codecogs.com/svg.image?\inline&space;Q" title="\inline Q" />值。
 
 - 软件使用
-4. 点击"Load S(Q)"加载多组S(Q)数据，加载后在"Angle with E-field(degree)"中填写该组数据对应的与电场夹角。可以通过"Delete selected row"删除选定数据或"Clear grid"清除所有加载数据。
+4. 点击"Load S(Q)s"加载多组S(Q)数据，加载后在"Angle with E-field(degree)"中填写该组数据对应的与电场夹角。可以通过"Delete selected row"删除选定数据或"Clear grid"清除所有加载数据。
 5. 设定球谐函数阶数L，默认为2。注意S(Q)数据的组数必须大于球谐函数阶数L。
 6. 设定原子对r，在"rmin"、"rmax"、"rstep"中分别填入原子对的最小值，最大值与间隔。
 7. 设定原子对方向矢量，可以选择"the r direction vector"填写矢量分量X, Y, Z；或选择"the polar and azimuthal angle(degree)"填写球坐标分量<img src="https://latex.codecogs.com/svg.image?\inline&space;\theta" title="\inline \theta" />, <img src="https://latex.codecogs.com/svg.image?\inline&space;\varphi" title="\inline \varphi" />。
