@@ -18,7 +18,7 @@ Windows: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
 Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
   
 # 界面
-![GUI1](https://github.com/worlddatong/Anisotropic-PDF/blob/bc42618367489cc0f1abdb713cd130f88e90dc05/imgs/5.png)
+![GUI1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/5.png)
 
 # 使用指南
 - 数据准备
