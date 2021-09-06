@@ -39,7 +39,7 @@ Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
 10. 选择"Output expansion coefficients Slm(Q)"， "Output reconstructed S(Q)"和"Output G(r)"，来确认是否保存球谐系数<img src="https://latex.codecogs.com/svg.image?\inline&space;S_l^m(Q)" title="\inline S_l^m(Q)" />，重构的<img src="https://latex.codecogs.com/svg.image?\inline&space;(Q,S(Q))" title="\inline (Q,S(Q))" />和各向异性PDF<img src="https://latex.codecogs.com/svg.image?\inline&space;G(\vec{r})" title="\inline G(\vec{r})" />。
 11. 点击"Calculate the selected"执行运算，可以在命令窗口观察到程序运行情况与报错信息。
 
-![GUI2](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/6.png)![cmd1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/8.png)
+![GUI2](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/8.png)![cmd1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/8.png)
 
 # 参考文献
 1. Egami, Takeshi, and Simon JL Billinge. *Underneath the Bragg peaks: structural analysis of complex materials*. Elsevier, 2003.
