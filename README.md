@@ -15,8 +15,8 @@ Anisotropic PDF软件可以对输入的二维平面探测器不同角度的总�
 3. 通过球谐系数，计算原子对密度函数(atomic pair-density function)的球谐分量<img src="https://latex.codecogs.com/svg.image?\inline&space;\rho_l^m(r)" title="\inline \rho_l^m(r)" />，从而得到各向异性的PDF曲线<img src="https://latex.codecogs.com/svg.image?\inline&space;G(\vec{r})" title="\inline G(\vec{r})" />。
 
 # 下载
-Windows: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
-Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
+- Windows: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
+- Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
   
 # 界面
 ![GUI1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/5.png)
