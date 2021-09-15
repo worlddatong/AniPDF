@@ -2,7 +2,7 @@
 ![logo](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/4.png)
 
 # 简介
-Anisotropic PDF是一款生成各项异性原子对分布函数(atomic pair-distribution function, PDF)曲线的处理软件。
+Anisotropic PDF是一款生成各向异性原子对分布函数(atomic pair-distribution function, PDF)曲线的处理软件。
 Egami等人[1]提出，样品在外部刺激下(电场/应变)，其各向同性(isotropic)PDF则会表现出三维上的各向异性，而球谐函数可以有效地来描述这种各向异性。
 
 因此，要分析在外部刺激下样品的局部微观结构，就需要从三维<img src="https://latex.codecogs.com/svg.image?\inline&space;\vec{r}" title="\inline \vec{r}" />空间来分析各向异性PDF曲线<img src="https://latex.codecogs.com/svg.image?\inline&space;G(\vec{r})" title="\inline G(\vec{r})" />。目前，Usher等人[2]与Egami等人[3,4]等人都报道了利用各向异性PDF来分析多晶陶瓷、金属玻璃等材料的局部微观结构。
