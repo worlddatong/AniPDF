@@ -1,5 +1,5 @@
 # AniPDF
-![logo](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/4.png)
+![logo](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/9.png)
 
 # 简介
 AniPDF是一款生成各向异性原子对分布函数(atomic pair-distribution function, PDF)曲线的处理软件。
