@@ -1,7 +1,7 @@
 # AniPDF
 ![logo](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/9.png)
 
-# 简介
+# Introduction
 AniPDF是一款生成各向异性原子对分布函数(atomic pair-distribution function, PDF)曲线的处理软件。
 Egami等人[1]提出，样品在外部刺激下(电场/应变)，其各向同性(isotropic)PDF则会表现出三维上的各向异性，而球谐函数可以有效地来描述这种各向异性。
 
@@ -14,11 +14,11 @@ AniPDF软件可以对输入的二维平面探测器不同角度的总散射结�
 
 3. 通过球谐系数，计算原子对密度函数(atomic pair-density function)的球谐分量<img src="https://latex.codecogs.com/svg.image?\inline&space;\rho_l^m(r)" title="\inline \rho_l^m(r)" />，从而得到各向异性的PDF曲线<img src="https://latex.codecogs.com/svg.image?\inline&space;G(\vec{r})" title="\inline G(\vec{r})" />。
 
-# 下载
+# Download
 - Windows: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
 - Linux: [Download](https://github.com/worlddatong/Anisotropic-PDF/releases)
   
-# 界面
+# GUI
 ![GUI1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/5.png)
 
 # 使用指南
@@ -42,12 +42,12 @@ AniPDF软件可以对输入的二维平面探测器不同角度的总散射结�
 
 ![GUI2](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/6.png)![cmd1](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/8.png)
 
-# 参考文献
+# Reference
 1. Egami, Takeshi, and Simon JL Billinge. *Underneath the Bragg peaks: structural analysis of complex materials*. Elsevier, 2003.
 2. Usher, Tedi-Marie, et al. "Electric-field-induced local and mesoscale structural changes in polycrystalline dielectrics and ferroelectrics." *Scientific reports* 5.1 (2015): 1-10.
 3. Suzuki, Y., J. Haimovich, and T. Egami. "Bond-orientational anisotropy in metallic glasses observed by x-ray diffraction." *Physical Review B* 35.5 (1987): 2162.
 4. Egami, T., et al. "Deformation induced bond orientational order in metallic glasses." *Journal of non-crystalline solids* 192 (1995): 591-594.
 
-# 引用
+# Citation
 如果AniPDF对您的研究有帮助，请引用这个网址：
 https://github.com/worlddatong/Anisotropic-PDF
