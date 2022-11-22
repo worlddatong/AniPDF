@@ -2,6 +2,7 @@
 ![logo](https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/9.png)
 
 # Introduction
+AniPDF is a graphical user interface (GUI) software based on the spherical harmonic method to process anisotropic total scattering data interactively.
 AniPDF是一款生成各向异性原子对分布函数(atomic pair-distribution function, PDF)曲线的处理软件。
 Egami等人[1]提出，样品在外部刺激下(电场/应变)，其各向同性(isotropic)PDF则会表现出三维上的各向异性，而球谐函数可以有效地来描述这种各向异性。
 
@@ -49,5 +50,5 @@ AniPDF软件可以对输入的二维平面探测器不同角度的总散射结�
 4. Egami, T., et al. "Deformation induced bond orientational order in metallic glasses." *Journal of non-crystalline solids* 192 (1995): 591-594.
 
 # Citation
-如果AniPDF对您的研究有帮助，请引用这个网址：
-https://github.com/worlddatong/Anisotropic-PDF
+If you find this project useful, please cite:
+https://doi.org/10.48550/arXiv.2205.05865
