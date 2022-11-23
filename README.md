@@ -11,6 +11,6 @@ Executable versions for Windows and Linux (all 64bit) can be downloaded from:
 https://github.com/worlddatong/AniPDF/releases/
   
 # Citation
-If you find this project useful, please cite:
+If you use AniPDF in a scientific publication, we would appreciate citations:
 
 https://doi.org/10.48550/arXiv.2205.05865
