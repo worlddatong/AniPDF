@@ -1,12 +1,11 @@
+# AniPDF
 <div align=center>
 <img src="https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/10.png"/>
 </div>
 
-# AniPDF
+**AniPDF** is a graphical user interface (GUI) software  to process anisotropic total scattering data interactively. 
 
-# Introduction
-AniPDF is a graphical user interface (GUI) software based on the spherical harmonic method to process anisotropic total scattering data interactively.
-AniPDF can be employed together with other process programs such as Fit2D and PDFgetX2 to obtain anisotropic PDFs from 2D diffraction patterns.
+The extraction of the X-ray PDF data is usually based on angular integrations of isotropic X-ray structure functions, which is no longer valid for the anisotropic responses of the materials under orientation-dependent stimuli, such as electric field and stress. AniPDF, based on the spherical harmonic method, provides an ideal tool to investigate the local structural change under the application of external stimuli.
 
 # Installation
 Executable versions for Windows and Linux (all 64bit) can be downloaded from:
