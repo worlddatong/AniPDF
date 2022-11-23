@@ -1,7 +1,7 @@
-# AniPDF
 <div align=center>
-<img src="https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/10.png"/>
+<img src="https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/9.png"/>
 </div>
+# AniPDF
 
 # Introduction
 AniPDF is a graphical user interface (GUI) software based on the spherical harmonic method to process anisotropic total scattering data interactively.
