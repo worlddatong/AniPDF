@@ -1,5 +1,5 @@
 # AniPDF
-<div style="text-align: center">
+<div align=center>
 <img src="https://github.com/worlddatong/Anisotropic-PDF/blob/main/imgs/10.png"/>
 </div>
 
