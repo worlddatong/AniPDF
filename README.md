@@ -15,4 +15,4 @@ https://github.com/worlddatong/AniPDF/releases/
 # Citation
 If you use AniPDF in a scientific publication, we would appreciate citations:
 
-https://doi.org/10.48550/arXiv.2205.05865
+[https://doi.org/10.1107/S1600576723000109](https://doi.org/10.1107/S1600576723000109)
